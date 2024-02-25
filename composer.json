@@ -1,0 +1,17 @@
+{
+    "name": "pedro-trato/country-package",
+    "autoload": {
+        "psr-4": {
+            "PedroTrato\\CountryPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PedroTrato",
+            "email": "pedro.henrique@trato.tech"
+        }
+    ],
+    "require": {
+        "calebporzio/sushi": "^2.5"
+    }
+}
